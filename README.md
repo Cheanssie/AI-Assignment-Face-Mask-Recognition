@@ -16,3 +16,6 @@ Our model architecture revolves around a powerful CNN, designed to extract relev
 
 ### 3. Training and Validation: 
 The CNN is trained on the curated dataset, and hyperparameter tuning is performed to optimize model performance. Validation techniques such as cross-validation aid in evaluating the model's accuracy and identifying potential areas for improvement.
+
+### Additional Information
+Dataset URI: https://drive.google.com/drive/folders/1v29YI3rvUvxMLzSXoRi1zuJasZkDhcwB?usp=sharing
